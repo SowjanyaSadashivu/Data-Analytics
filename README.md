@@ -9,5 +9,7 @@ Link to playlist: https://youtu.be/rGx1QNdYzvs <br>
 2. Excel Data Analysis <br>
    -- Pivot tables <br>
    -- Excel Formulae <br>
+   -- XLOOKUP and VLOOKUP <br>
+   
    
 
