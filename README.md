@@ -7,5 +7,7 @@ Link to playlist: https://youtu.be/rGx1QNdYzvs <br>
 
 1. SQL queries and projects <br>
 2. Excel Data Analysis <br>
-   -- Pivot tables
+   -- Pivot tables <br>
+   -- Excel Formulae <br>
+   
 
