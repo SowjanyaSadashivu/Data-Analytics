@@ -10,6 +10,7 @@ Link to playlist: https://youtu.be/rGx1QNdYzvs <br>
    -- Pivot tables <br>
    -- Excel Formulae <br>
    -- XLOOKUP and VLOOKUP <br>
+   -- Data Cleaning in Excel <br>
    
    
 
