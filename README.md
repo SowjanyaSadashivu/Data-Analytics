@@ -12,6 +12,12 @@ Link to playlist: https://youtu.be/rGx1QNdYzvs <br>
    -- XLOOKUP and VLOOKUP <br>
    -- Data Cleaning in Excel <br>
    -- Complete project with data cleaning, pivot tables and creating dashboard. <br>
+3. Tableau <br>
+   -- Joins <br>
+   -- filters <br>
+   -- sheets <br>
+   -- Dashoard <br>
+   
    
    
 
