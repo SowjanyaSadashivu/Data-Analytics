@@ -17,7 +17,11 @@ Link to playlist: https://youtu.be/rGx1QNdYzvs <br>
    -- filters <br>
    -- sheets <br>
    -- Dashoard <br>
-   
+
+4. Python <br>
+   -- BeautifulSoup <br>
+   -- Pandas <br>
+   -- Numpy <br>
    
    
 
