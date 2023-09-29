@@ -2,7 +2,7 @@ import os, shutil
 
 class FileSorter:
     def get_path(self):
-        path = r"/Users/sowjanyasadashiva/Desktop/Data Analysis Projects/Python_small_projects/Path_to_sort_files"
+        path = r"file path"
         return path
 
     def get_files_in_directory(self, path):
