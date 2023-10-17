@@ -3,7 +3,7 @@ create database SQLPractice;
 use sqlpractice;
 
 create table userdetails(
-	id int auto_increment primary key,
+    id int auto_increment primary key,
     uname varchar(25),
     age int,
     location varchar(25)
@@ -11,9 +11,11 @@ create table userdetails(
 
 DELIMITER $$
 
+-- creating stored procedure here
+	
 create procedure insertuserdetails()
 begin
-	declare counter int default 1;
+    declare counter int default 1;
 	
     while counter <=100 do
 		set @uname = concat('abc', counter);
